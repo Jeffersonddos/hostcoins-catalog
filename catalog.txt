@@ -1,1 +1,3 @@
-TAKESHI|https://github.com/guiireal/takeshi-bot.git|npm start|1,X-BOT|https://github.com/bronxys/X.git|bash start.sh|0
+TAKESHI|https://github.com/guiireal/takeshi-bot.git|npm start|1
+X-BOT|https://github.com/bronxys/X.git|bash start.sh|0
+MEU-OUTRO-BOT|https://github.com/usuario/repo.git|npm start|1
