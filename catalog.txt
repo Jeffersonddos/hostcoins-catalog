@@ -1,3 +1,3 @@
 TAKESHI|https://github.com/guiireal/takeshi-bot.git|npm start|1
 X-BOT|https://github.com/bronxys/X.git|bash start.sh|0
-ASTA|https://github.com/m4thxyz/astaofc.git|sh astaup.sh|0
+SHADOW|https://github.com/bronxys/Shadow.git|sh start.sh|0
