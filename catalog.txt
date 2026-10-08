@@ -1,3 +1,3 @@
 TAKESHI|https://github.com/guiireal/takeshi-bot.git|npm start|1
 X-BOT|https://github.com/bronxys/X.git|bash start.sh|0
-KNIGHTBOT|https://github.com/mruniquehacker/Knightbot-MD.git|node index.js|0
+KNIGHTBOT|https://github.com/mruniquehacker/Knightbot-MD.git|node index.js|1
