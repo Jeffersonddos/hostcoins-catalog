@@ -1,3 +1,3 @@
 TAKESHI|https://github.com/guiireal/takeshi-bot.git|npm start|1
 X-BOT|https://github.com/bronxys/X.git|bash start.sh|0
-ALEATORY|https://github.com/bronxys/Aleatory.git|node iniciar.js|0
+BLACK|https://github.com/m4thxyz/blackofc.git|bash blackmd.sh|0
